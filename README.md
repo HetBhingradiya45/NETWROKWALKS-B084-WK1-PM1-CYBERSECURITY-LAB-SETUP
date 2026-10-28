@@ -272,7 +272,7 @@ The exact menu name depends on the computer manufacturer.
 
 ## 👤 Author
 
-**Bbhingradiya Het**
+**Bhingradiya Het**
 
 ## 📌 Project Information
 
